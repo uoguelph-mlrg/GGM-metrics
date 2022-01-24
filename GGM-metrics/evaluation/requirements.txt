@@ -1,0 +1,5 @@
+torch==1.8.1
+scikit-learn
+pyemd
+grakel==0.1.8
+git+https://github.com/fabriziocosta/EDeN.git

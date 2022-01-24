@@ -1,0 +1,12 @@
+torch==1.8.1
+networkx==2.5.1
+numpy==1.21.5
+scikit-learn==0.24.2
+scipy==1.4.1
+tensorflow
+tensorflow-gan
+tensorflow-probability
+psutil==5.8.0
+pyemd==0.5.1
+grakel==0.1.8
+git+https://github.com/fabriziocosta/EDeN.git
